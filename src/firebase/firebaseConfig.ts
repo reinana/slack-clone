@@ -10,7 +10,7 @@ const firebaseConfig = {
     projectId: "slack-clone-9a107",
     storageBucket: "slack-clone-9a107.appspot.com",
     messagingSenderId: "730337044761",
-    appId: "1:730337044761:web:f28228cbe915a424a53d88",
+    appId: "1:730337044761:web:f28228cbe915a424a53d88"
 };
 // Firebaseを初期化します
 const firebaseApp = initializeApp(firebaseConfig);
